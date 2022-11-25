@@ -25,4 +25,3 @@ The followin repository contains all the files related to my final thesis for th
 
 - Main Folder on [Google Drive](https://drive.google.com/drive/u/0/folders/17ugat9U1_oqLrUnpZ9kt_WJoxvDhecUa)
 - Meeting notes on [Notion Site](https://www.notion.so/MA-DHDK-Final-Thesis-abea273e2085456e83ca7e2190a7cd00)
-- Thesis text (LaTeX) on [Overleaf](https://www.overleaf.com/6982722417xwkjcxmnmdwr)
