@@ -12,10 +12,6 @@ The followin repository contains all the files related to my final thesis for th
     <td>TBD</td>
 </tr>
 <tr>
-    <td><b>Co-supervisor 2</b></td>
-    <td>TBD</td>
-</tr>
-<tr>
     <td><b>Subject</b></td>
     <td>Digital Heritage and Multimedia - Interaction Media Design</td>
 </tr>
