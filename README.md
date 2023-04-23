@@ -8,8 +8,8 @@ The followin repository contains all the files related to my final thesis for th
     <td>Prof Sofia Pescarin (UniBo - CNR)</td>
 </tr>
 <tr>
-    <td><b>Co-supervisor 1</b></td>
-    <td>TBD</td>
+    <td><b>Co-supervisor</b></td>
+    <td>Delfina Pandiani</td>
 </tr>
 <tr>
     <td><b>Subject</b></td>
