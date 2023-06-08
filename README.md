@@ -1,4 +1,4 @@
-# MA DHDK Final Thesis
+# MyTISSE
 
 The followin repository contains all the files related to my final thesis for the MA "Digital Humanities and Digital Knowledge" at the University of Bologna. 
 
