@@ -1,8 +1,12 @@
-# MyTISSE
+# MyTISSE 
 
-The followin repository contains all the files related to my final thesis for the MA "Digital Humanities and Digital Knowledge" at the University of Bologna. 
+This repository contains all the files related to my final thesis for the MA "Digital Humanities and Digital Knowledge" at the University of Bologna. 
 
 <table>
+<tr>
+    <td><b>Title</b></td>
+    <td>MyTISSE. Interactive systems as enhancement tools for the  sense of care in color perception. A case study on <i>Les demoiselles à la rivière</i> by Matisse</td>
+</tr>
 <tr>
     <td><b>Supervisor</b></td>
     <td>Prof Sofia Pescarin (UniBo - CNR)</td>
@@ -17,10 +21,13 @@ The followin repository contains all the files related to my final thesis for th
 </tr>
 </table>
 
-## Relevant Links
+<img src="prototype/mytisse_logo.png">
 
-- Main Folder on [Google Drive](https://drive.google.com/drive/u/0/folders/17ugat9U1_oqLrUnpZ9kt_WJoxvDhecUa)
-- Meeting notes on [Notion Site](https://www.notion.so/MA-DHDK-Final-Thesis-abea273e2085456e83ca7e2190a7cd00)
+## Content
+
+The repository contains different subfolder:
+- `prototype` hosts the material which is being used to prepare the Unity 3D prototype. It will also contain the final prototype as Unity package;
+- `data` collects the data obtained from the prototype testing (for now, the testing session held in Bologna, June 8th, 2023). They are analyzed in an <i>ad hoc</i> [notebook](testing_sessions/230608_unibo/data_analysis.ipynb)
 
 ## License
 
