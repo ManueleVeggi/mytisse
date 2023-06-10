@@ -1,0 +1,41 @@
+﻿id_question;text
+group_id;What is your group ID?
+part_id;What is your participant number?
+q1;Summarize the experience you have just participated in  focusing on the aspects you considered more relevant according to your personal experience
+q2_music_dance;Here there are some aspects about Bathers by a river that have been covered by MyTISSE. Please order them from the one you perceived as most important (1) to the less relevant one (5) [The fact that it was conceived together with other two famous paintings]
+q2_war;Here there are some aspects about Bathers by a river that have been covered by MyTISSE. Please order them from the one you perceived as most important (1) to the less relevant one (5) [The impact of the war]
+q2_color;Here there are some aspects about Bathers by a river that have been covered by MyTISSE. Please order them from the one you perceived as most important (1) to the less relevant one (5) [The change of color]
+q2_conservation;Here there are some aspects about Bathers by a river that have been covered by MyTISSE. Please order them from the one you perceived as most important (1) to the less relevant one (5) [The possibility to reconstruct the versions painting through conservation data]
+q2_cubism;Here there are some aspects about Bathers by a river that have been covered by MyTISSE. Please order them from the one you perceived as most important (1) to the less relevant one (5) [The contact with other artistic avant-guardes (e.g. Cubism)]
+q3;During the experience  two colors palettes have been proposed. Which one did you choose?
+q3_justification;Why did you choose it? What do you associate thes colors with? It can be any image, memory, emotion, concept etc.
+q4_anger;Which are the feelings you associate with the painting? Rate them from 1 (not at all) to 5 (a lot) [Anger]
+q4_disgust;Which are the feelings you associate with the painting? Rate them from 1 (not at all) to 5 (a lot) [Disgust]
+q4_fear;Which are the feelings you associate with the painting? Rate them from 1 (not at all) to 5 (a lot) [Fear]
+q4_interest;Which are the feelings you associate with the painting? Rate them from 1 (not at all) to 5 (a lot) [Interest]
+q4_joy;Which are the feelings you associate with the painting? Rate them from 1 (not at all) to 5 (a lot) [Joy]
+q4_sadness;Which are the feelings you associate with the painting? Rate them from 1 (not at all) to 5 (a lot) [Sadness]
+q4_surprise;Which are the feelings you associate with the painting? Rate them from 1 (not at all) to 5 (a lot) [Surprise]
+q4_trust;Which are the feelings you associate with the painting? Rate them from 1 (not at all) to 5 (a lot) [Trust]
+q5;The Art Institute of Chicago is conducting further researches on Bathers by a River to better document this artwork as it is undergoing an irremediable corrupting process. In few years the damages to the pictorial film may be unrepairable. How much would you be sorry for this loss?
+q6;"Looking at Bathers By a River helped me"""". Do you agree with this statement? If yes why?"
+q7;Would you like to see the reinterpretations created by the other participants of this experiment?
+q8;Would you like to participate in similar activities or workshops organized by museums and art galleries?
+q9;Have you ever studied the Parisian artistic context in the between 19th and 20th century?
+q10_anger;Bathers by a River is a famous artwork and different artists reinterpred it in different ways. Which ones are the feeling you associate to this version painted by an anonymous artist? Rate them from 1 (not at all) to 5 (a lot) [Anger]
+q10_disgust;Bathers by a River is a famous artwork and different artists reinterpred it in different ways. Which ones are the feeling you associate to this version painted by an anonymous artist? Rate them from 1 (not at all) to 5 (a lot) [Disgust]
+q10_fear;Bathers by a River is a famous artwork and different artists reinterpred it in different ways. Which ones are the feeling you associate to this version painted by an anonymous artist? Rate them from 1 (not at all) to 5 (a lot) [Fear]
+q10_interest;Bathers by a River is a famous artwork and different artists reinterpred it in different ways. Which ones are the feeling you associate to this version painted by an anonymous artist? Rate them from 1 (not at all) to 5 (a lot) [Interest]
+q10_joy;Bathers by a River is a famous artwork and different artists reinterpred it in different ways. Which ones are the feeling you associate to this version painted by an anonymous artist? Rate them from 1 (not at all) to 5 (a lot) [Joy]
+q10_sadness;Bathers by a River is a famous artwork and different artists reinterpred it in different ways. Which ones are the feeling you associate to this version painted by an anonymous artist? Rate them from 1 (not at all) to 5 (a lot) [Sadness]
+q10_surprise;Bathers by a River is a famous artwork and different artists reinterpred it in different ways. Which ones are the feeling you associate to this version painted by an anonymous artist? Rate them from 1 (not at all) to 5 (a lot) [Surprise]
+q10_trust;Bathers by a River is a famous artwork and different artists reinterpred it in different ways. Which ones are the feeling you associate to this version painted by an anonymous artist? Rate them from 1 (not at all) to 5 (a lot) [Trust]
+q11;Which title would you give to this second new painting?
+q12_anger;Which ones are the feeling you associate with this canvas? Rate them from 1 (not at all) to 5 (a lot) [Anger]
+q12_disgust;Which ones are the feeling you associate with this canvas? Rate them from 1 (not at all) to 5 (a lot) [Disgust]
+q12_fear;Which ones are the feeling you associate with this canvas? Rate them from 1 (not at all) to 5 (a lot) [Fear]
+q12_interest;Which ones are the feeling you associate with this canvas? Rate them from 1 (not at all) to 5 (a lot) [Interest]
+q12_joy;Which ones are the feeling you associate with this canvas? Rate them from 1 (not at all) to 5 (a lot) [Joy]
+q12_sadness;Which ones are the feeling you associate with this canvas? Rate them from 1 (not at all) to 5 (a lot) [Sadness]
+q12_surprise;Which ones are the feeling you associate with this canvas? Rate them from 1 (not at all) to 5 (a lot) [Surprise]
+q12_trust;Which ones are the feeling you associate with this canvas? Rate them from 1 (not at all) to 5 (a lot) [Trust]
