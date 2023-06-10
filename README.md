@@ -27,7 +27,7 @@ This repository contains all the files related to my final thesis for the MA "Di
 
 The repository contains different subfolder:
 - `prototype` hosts the material which is being used to prepare the Unity 3D prototype. It will also contain the final prototype as Unity package;
-- `data` collects the data obtained from the prototype testing (for now, the testing session held in Bologna, June 8th, 2023). They are analyzed in an <i>ad hoc</i> [notebook](https://github.com/ManueleVeggi/mytisse/blob/a07a98e946f287e4066d4d32d85e9c85c8653a83/testing_sessions/230608_unibo/exploratory_analysis.ipynb)
+- `data` collects the data obtained from the prototype testing (for now, the testing session held in Bologna, June 8th, 2023)
 
 ## License
 
