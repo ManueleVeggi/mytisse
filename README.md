@@ -29,6 +29,21 @@ The repository contains different subfolder:
 - `prototype` hosts the material which is being used to prepare the Unity 3D prototype. It will also contain the final prototype as Unity package;
 - `data` collects the data obtained from the prototype testing (for now, the testing session held in Bologna, June 8th, 2023: a first exploratory analysis is available at the following [link](https://nbviewer.org/github/ManueleVeggi/mytisse/blob/main/testing_sessions/230608_unibo/exploratory_analysis.ipynb))
     - the file [`requirements.txt`](https://github.com/ManueleVeggi/mytisse/blob/main/requirements.txt) contains the needed packages to correctly run the Python methods for the data analysis (in particular, the visualization with [PyPlutchik](https://github.com/alfonsosemeraro/pyplutchik).
+ 
+## Connected Publications
+
+**Protocol**
+
+[![DOI:10.17504/protocols.io.6qpvr367bvmk/v1](http://img.shields.io/badge/DOI-10.17504/protocols.io.6qpvr367bvmk/v1-B31B1B.svg)](dx.doi.org/10.17504/protocols.io.6qpvr367bvmk/v1)
+
+**Datasets**
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8190389.svg)](https://doi.org/10.5281/zenodo.8190389)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8027737.svg)](https://doi.org/10.5281/zenodo.8027737)
+
+**Journal Articles and Conference Proceedings**
+
+<i>Forthcoming publications</i>
 
 ## License
 
