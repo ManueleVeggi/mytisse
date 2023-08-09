@@ -34,7 +34,7 @@ The repository contains different subfolder:
 
 **Protocol**
 
-[![DOI:10.17504/protocols.io.6qpvr367bvmk/v1](http://img.shields.io/badge/DOI-10.17504/protocols.io.6qpvr367bvmk/v1-B31B1B.svg)](dx.doi.org/10.17504/protocols.io.6qpvr367bvmk/v1)
+[![DOI:10.17504/protocols.io.6qpvr367bvmk/v1](http://img.shields.io/badge/DOI-10.17504/protocols.io.6qpvr367bvmk/v1-B31B1B.svg)](https://www.protocols.io/view/a-first-experimental-protocol-on-creative-engageme-6qpvr367bvmk/v1)
 
 **Datasets**
 
