@@ -29,16 +29,22 @@ The repository contains different subfolder:
 - `prototype` hosts the material which is being used to prepare the Unity 3D prototype. It will also contain the final prototype as Unity package;
 - `data` collects the data obtained from the prototype testing (for now, the testing session held in Bologna, June 8th, 2023: a first exploratory analysis is available at the following [link](https://nbviewer.org/github/ManueleVeggi/mytisse/blob/main/testing_sessions/230608_unibo/exploratory_analysis.ipynb))
     - the file [`requirements.txt`](https://github.com/ManueleVeggi/mytisse/blob/main/requirements.txt) contains the needed packages to correctly run the Python methods for the data analysis (in particular, the visualization with [PyPlutchik](https://github.com/alfonsosemeraro/pyplutchik).
+ 
+## Connected Publications
+
+**Protocol**
+
+[![DOI:10.17504/protocols.io.6qpvr367bvmk/v1](http://img.shields.io/badge/DOI-10.17504/protocols.io.6qpvr367bvmk/v1-B31B1B.svg)](https://www.protocols.io/view/a-first-experimental-protocol-on-creative-engageme-6qpvr367bvmk/v1)
+
+**Datasets**
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8190389.svg)](https://doi.org/10.5281/zenodo.8190389)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8027737.svg)](https://doi.org/10.5281/zenodo.8027737)
+
+**Journal Articles and Conference Proceedings**
+
+<i>Forthcoming publications</i>
 
 ## License
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
-
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
-
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
