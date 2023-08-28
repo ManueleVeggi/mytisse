@@ -41,9 +41,11 @@ The repository contains different subfolder:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8190389.svg)](https://doi.org/10.5281/zenodo.8190389)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8027737.svg)](https://doi.org/10.5281/zenodo.8027737)
 
-**Journal Articles and Conference Proceedings**
+**Journal Articles, Conference Proceedings and Other Publications**
 
-<i>Forthcoming publications</i>
+- Pescarin, Sofia et al. 2023. Perceiving Coloured Collections: the PERCEIVE theory. Zenodo. https://doi.org/10.5281/zenodo.8226551.
+- Pescarin, Sofia and Manuele Veggi. 2023. Participatory Experiences as a New Way to Access Conservation Data in Museum Contexts. In Letizia Gioia Monda (ed.) <i>DRHA2023. Performing Cultural Heritage in the Digital Present. Book of Abstracts</i>.
+- Pescarin, Sofia, Fiorenza Gabriele and Veggi Manuele. 2023. PERCEIVE Cultural Probe Kit on Caring attitude in XR experiences: activity book, diary and art practices for designers to explore and solicit care in Cultural Heritage domain (Version 2). Zenodo. https://doi.org/10.5281/zenodo.8285611
 
 ## License
 
