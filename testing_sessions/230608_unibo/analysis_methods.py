@@ -1,3 +1,10 @@
+# This Python file contains all the methods which have 
+# been used to compare the values among the answers of
+# the members of the three groups
+
+# They are based on the functions developed for the
+# exploratory analysis
+
 import matplotlib.pyplot as plt
 import pandas as pd
 import collections
@@ -9,18 +16,16 @@ from nltk.stem import WordNetLemmatizer
 
 from wordcloud import WordCloud
 
-# ===================================
-# ======== DATA RETRIEVAL ===========
-# ===================================
+# ====================================
+# ======== DATA RETRIEVAL ============
+# ====================================
+# These methods access the csv file to
+# convert data in specific data struc-
+# tures for visualization
+# ====================================
+# ====================================
 
-# Convert dict in top-words (set threshold)
-def return_topwords(freq_dict, threshold):
-    word_counter = collections.Counter(freq_dict)
-    for word, count in word_counter.most_common():
-        if count >= threshold:
-            print(word, ": ", count)
-
-# Converts texts into frequency dictionary
+# This method converts texts into frequency dictionary
 def topwords_calculator(df_col): #
     text = " ".join(cat for cat in df_col).replace('\n', '') 
 
@@ -42,7 +47,16 @@ def topwords_calculator(df_col): #
                 wordcount[word] += 1
     return wordcount
 
-# Retrive Plutchik emotions as dict
+# This method converts dict in top-words (set threshold
+# of frequency: values below this limit are ignored)
+def return_topwords(freq_dict, threshold):
+    word_counter = collections.Counter(freq_dict)
+    for word, count in word_counter.most_common():
+        if count >= threshold:
+            print(word, ": ", count)
+
+# This method retrieves Plutchik emotions values and 
+# stores them as dictionary
 def emotion_data(dataDf, question):
     anger = dataDf['{0}_anger'.format(question)].astype(float).mean()
     disgust = dataDf['{0}_disgust'.format(question)].astype(float).mean()
@@ -65,13 +79,23 @@ def emotion_data(dataDf, question):
     
     return feelings
 
+# This method removes those answers which declared
+# not to have recieved any benefit from this UX
 def no_benefit(dataDf):
     no_occurrences = dataDf['q6'].str.contains('no', case=False, regex=False).sum() + dataDf['q6'].str.contains(r"(?i)don't").sum()
     print("Approximative amount of participants who denied any benefit: ", no_occurrences)
-# ===================================
-# ======== DATA VIZ =================
-# ===================================
 
+# ====================================
+# ======== DATA VIZ ==================
+# ====================================
+# These methods take the functions of
+# the previous section as an input and
+# return different visualizations
+# ====================================
+# ====================================
+
+# This method reads a word-frequency dict and
+# provide a visualization as wordcloud
 def wordcloud_generator(wc_dict):
     wordcloud = WordCloud(width = 1000, height = 500, background_color="white").generate_from_frequencies(wc_dict)
 
@@ -79,6 +103,8 @@ def wordcloud_generator(wc_dict):
     plt.imshow(wordcloud)
     plt.axis("off")
 
+# This method plots as bars the values of the 
+# five meaningfulness factors of Question 2
 def meaningfulness_factor_plot(dataDf):
     paintings = dataDf['q2_music_dance'].astype(float).mean()
     war = dataDf['q2_war'].astype(float).mean()
@@ -86,7 +112,7 @@ def meaningfulness_factor_plot(dataDf):
     conservation_data = dataDf['q2_conservation'].astype(float).mean()
     influence_cubism = dataDf['q2_cubism'].astype(float).mean()
 
-    # Plot
+    # Plot the barchart
     meaning_factors = {"Paintings": paintings, "War": war, "Color": color_change, "Conservation": conservation_data, "Avant-guardes": influence_cubism}
 
     keys = list(meaning_factors.keys())
@@ -109,6 +135,8 @@ def meaningfulness_factor_plot(dataDf):
     plt.tight_layout()
     plt.show()
 
+# This method plots piecharts and can be associated
+# to multiple questions 
 def pie_viz(dataDf, question_n, title):
     pie_df = dataDf[question_n].value_counts()
     print(pie_df)
@@ -122,6 +150,12 @@ def pie_viz(dataDf, question_n, title):
     plt.legend()    
     plt.show()
 
+# These last two methods provide a first visualization
+# of the questions based on Plutchik. See the notebook
+# "plutchick_emotions" for improved visualizations
+
+# This method plots the value of each feeling
+# in a barplot
 def emotion_plot(dict_feel, title_plot):
     keys = list(dict_feel.keys())
     values = list(dict_feel.values())
@@ -143,6 +177,8 @@ def emotion_plot(dict_feel, title_plot):
     plt.tight_layout()
     plt.show()
 
+# This method compares the value of the assessment
+# task among the different artwork
 def emotion_barcomparison(dataDf):
     keys = list(emotion_data(dataDf, "q4").keys())
     values1 = list(emotion_data(dataDf, "q4").values())
