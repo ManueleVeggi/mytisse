@@ -5,7 +5,7 @@ This repository contains all the files related to my final thesis for the MA "Di
 <table>
 <tr>
     <td><b>Title</b></td>
-    <td>MyTISSE. Interactive systems as enhancement tools for the  sense of care in color perception. A case study on <i>Les demoiselles à la rivière</i> by Matisse</td>
+    <td>MyTISSE. Interactive Systems as Enhancement Tools for the Sense of Care in Color Perception. A Case Study on <i>Les demoiselles à la rivière</i> by Matisse</td>
 </tr>
 <tr>
     <td><b>Supervisor</b></td>
