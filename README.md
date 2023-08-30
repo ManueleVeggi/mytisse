@@ -26,9 +26,9 @@ This repository contains all the files related to my final thesis for the MA "Di
 ## Content
 
 The repository contains different subfolder:
-- `prototype` hosts the material which is being used to prepare the Unity 3D prototype. It will also contain the final prototype as Unity package;
+- `prototype` hosts the material which is being used to prepare the Unity 3D prototype. The final prototype is accessible as compressed Unity project as [release v.1.0.0](https://github.com/ManueleVeggi/mytisse/releases/tag/v1.0.0)
 - `data` collects the data obtained from the prototype testing (for now, the testing session held in Bologna, June 8th, 2023: a first exploratory analysis is available at the following [link](https://nbviewer.org/github/ManueleVeggi/mytisse/blob/main/testing_sessions/230608_unibo/exploratory_analysis.ipynb))
-    - the file [`requirements.txt`](https://github.com/ManueleVeggi/mytisse/blob/main/requirements.txt) contains the needed packages to correctly run the Python methods for the data analysis (in particular, the visualization with [PyPlutchik](https://github.com/alfonsosemeraro/pyplutchik).
+- the file [`requirements.txt`](https://github.com/ManueleVeggi/mytisse/blob/main/requirements.txt) contains the needed packages to correctly run the Python methods for the data analysis (in particular, the visualization with [PyPlutchik](https://github.com/alfonsosemeraro/pyplutchik)).
  
 ## Connected Publications
 
