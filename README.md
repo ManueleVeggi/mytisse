@@ -41,11 +41,15 @@ The repository contains different subfolder:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8190389.svg)](https://doi.org/10.5281/zenodo.8190389)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8027737.svg)](https://doi.org/10.5281/zenodo.8027737)
 
+**Cultural Probekit**
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8285611.svg)](https://doi.org/10.5281/zenodo.8285611)
+
 **Journal Articles, Conference Proceedings and Other Publications**
 
 - Pescarin, Sofia et al. 2023. Perceiving Coloured Collections: the PERCEIVE theory. Zenodo. https://doi.org/10.5281/zenodo.8226551.
-- Pescarin, Sofia and Manuele Veggi. 2023. Participatory Experiences as a New Way to Access Conservation Data in Museum Contexts. In Letizia Gioia Monda (ed.) <i>DRHA2023. Performing Cultural Heritage in the Digital Present. Book of Abstracts</i>.
-- Pescarin, Sofia, Fiorenza Gabriele and Veggi Manuele. 2023. PERCEIVE Cultural Probe Kit on Caring attitude in XR experiences: activity book, diary and art practices for designers to explore and solicit care in Cultural Heritage domain (Version 2). Zenodo. https://doi.org/10.5281/zenodo.8285611
+- Veggi, M. 2023. Interaction Design as Catalyzer of Creative and Interpretative Praxes in Museum Context. In A. Bucciero, B. Fanini, H. Graf, S. Pescarin, and S. Rizvic (eds.), <i>Eurographics Workshop on Graphics and Cultural Heritage</i>. The Eurographics Association. https://doi.org/10.2312/gch.20231154 
+- Pescarin, Sofia and Manuele Veggi. 2023. Participatory Experiences as a New Way to Access Conservation Data in Museum Contexts. In Letizia Gioia Monda (ed.), <i>DRHA2023. Performing Cultural Heritage in the Digital Present. Book of Abstracts</i>.
 
 ## License
 
