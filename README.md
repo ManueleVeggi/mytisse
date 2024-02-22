@@ -47,9 +47,10 @@ The repository contains different subfolder:
 
 **Journal Articles, Conference Proceedings and Other Publications**
 
-- Pescarin, Sofia et al. 2023. Perceiving Coloured Collections: the PERCEIVE theory. Zenodo. https://doi.org/10.5281/zenodo.8226551.
-- Veggi, M. 2023. Interaction Design as Catalyzer of Creative and Interpretative Praxes in Museum Context. In A. Bucciero, B. Fanini, H. Graf, S. Pescarin, and S. Rizvic (eds.), <i>Eurographics Workshop on Graphics and Cultural Heritage</i>. The Eurographics Association. https://doi.org/10.2312/gch.20231154 
+- Veggi, Manuele and Sofia Pescarin. 2024. Creative engagement and meaning creation: A first experimental protocol on interactive cultural experiences for conservation data. <i>Digital Applications in Archeology and Cultural Heritage</i> 32. https://doi.org/10.1016/j.daach.2024.e00321.
+- Veggi, Manuele. 2023. Interaction Design as Catalyzer of Creative and Interpretative Praxes in Museum Context. In A. Bucciero, B. Fanini, H. Graf, S. Pescarin, and S. Rizvic (eds.), <i>Eurographics Workshop on Graphics and Cultural Heritage</i>. The Eurographics Association. https://doi.org/10.2312/gch.20231154 
 - Pescarin, Sofia and Manuele Veggi. 2023. Participatory Experiences as a New Way to Access Conservation Data in Museum Contexts. In Letizia Gioia Monda (ed.), <i>DRHA2023. Performing Cultural Heritage in the Digital Present. Book of Abstracts</i>.
+- Pescarin, Sofia et al. 2023. Perceiving Coloured Collections: the PERCEIVE theory. Zenodo. https://doi.org/10.5281/zenodo.8226551.
 
 ## License
 
